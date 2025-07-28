@@ -169,7 +169,7 @@ void loggedInProfile(BankAccount *account){
     showLoggedInInterface();
 
     int option;
-    cout << "\n Choose option: ";
+    cout << "\nChoose option: ";
     cin >> option;
 
     double amount, accountNumber;

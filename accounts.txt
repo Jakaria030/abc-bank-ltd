@@ -1,4 +1,4 @@
-Gulam Jakaria,500,1001,1234
+Gulam Jakaria,1000,1001,1234
 Arman Hosen,1000,1002,1234
 Jahid Hasan,1600,1003,1234
 Mahadi Miraj,500,1004,1234
